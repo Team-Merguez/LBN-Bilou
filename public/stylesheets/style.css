@@ -321,6 +321,10 @@ body {
 	stroke-width:0.6;
 }
 
+.idf:hover, .departement69:hover, .departement13:hover {
+  fill: blue;
+}
+
 /* Change settings and colors below */
 /* To display the box zoomed in around Paris, set opacity to 1. Default is 0, box hidden*/
 .zoom_box
